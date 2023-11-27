@@ -1,0 +1,14 @@
+/Users/dhalchenko/Desktop/Epam IT марафон/upamers-java-backend/DynamoDBApp/src/main/java/layer/service/AmazonDynamoDBConnect.java
+/Users/dhalchenko/Desktop/Epam IT марафон/upamers-java-backend/DynamoDBApp/src/main/java/handler/GetUserListFunction.java
+/Users/dhalchenko/Desktop/Epam IT марафон/upamers-java-backend/DynamoDBApp/src/main/java/handler/CreateUserFunction.java
+/Users/dhalchenko/Desktop/Epam IT марафон/upamers-java-backend/DynamoDBApp/src/main/java/layer/model/User.java
+/Users/dhalchenko/Desktop/Epam IT марафон/upamers-java-backend/DynamoDBApp/src/main/java/layer/service/APIGatewayService.java
+/Users/dhalchenko/Desktop/Epam IT марафон/upamers-java-backend/DynamoDBApp/src/main/java/handler/DeleteUserFunction.java
+/Users/dhalchenko/Desktop/Epam IT марафон/upamers-java-backend/DynamoDBApp/src/main/java/layer/service/DynamoDBService.java
+/Users/dhalchenko/Desktop/Epam IT марафон/upamers-java-backend/DynamoDBApp/src/main/java/layer/model/RequestBody.java
+/Users/dhalchenko/Desktop/Epam IT марафон/upamers-java-backend/DynamoDBApp/src/main/java/layer/service/APIGatewayServiceImpl.java
+/Users/dhalchenko/Desktop/Epam IT марафон/upamers-java-backend/DynamoDBApp/src/main/java/handler/GetUserFunction.java
+/Users/dhalchenko/Desktop/Epam IT марафон/upamers-java-backend/DynamoDBApp/src/main/java/handler/GetUserListByQueryFunction.java
+/Users/dhalchenko/Desktop/Epam IT марафон/upamers-java-backend/DynamoDBApp/src/main/java/layer/model/ResponseMessage.java
+/Users/dhalchenko/Desktop/Epam IT марафон/upamers-java-backend/DynamoDBApp/src/main/java/handler/UpdateUserFunction.java
+/Users/dhalchenko/Desktop/Epam IT марафон/upamers-java-backend/DynamoDBApp/src/main/java/layer/service/DynamoDBServiceImpl.java
